@@ -242,10 +242,10 @@ Hammer
 == Hammer
 
 Has people playing
-== Har folk som spiller
+== Har spillere
 
 High Detail
-== Ekstra detaljer
+== Høye detaljer
 
 Hook
 == Gripe tang
@@ -266,13 +266,13 @@ Invalid Demo
 == Ugyldig Demo
 
 Join blue
-== Bli med blå
+== Join blå
 
 Join game
-== Bli med i spillet
+== Join spillet
 
 Join red
-== Bli med rød
+== Join rød
 
 Jump
 == Hopp
@@ -431,7 +431,7 @@ Reason:
 == Grunn:
 
 Record demo
-== Ta opp demo
+== Record demo
 
 Red team
 == Rødt lag
@@ -676,25 +676,24 @@ no limit
 ##### needs translation #####
 
 Borderless window
-== 
+== Vindu uten kanter
 
 Game paused
-== 
+== Pause spill
 
 Handle rendering async from updates
-== 
+== Håndtere rendring async fra oppdateringer
 
 Respawn
-== 
+== Respawn
 
 Show only chat messages from friends
-== 
+== Vis bare chat meldinger fra venner
 
 Threaded rendering
-== 
+== Threaded rendering
 
 Threaded sound loading
-== 
+== Threaded sound loading
 
 ##### old translations #####
-
